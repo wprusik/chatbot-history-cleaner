@@ -1,9 +1,9 @@
-# chatbot-history-cleaners
+# chatbot-history-cleaner
 JS scripts that automatically delete chat history from ChatGPT and Google Bard
 
 ## Scripts:
-* [ChatGPT](https://github.com/wprusik/chatbot-history-cleaners/blob/main/chatgpt.js)
-* [Google Bard](https://github.com/wprusik/chatbot-history-cleaners/blob/main/bard.js)
+* [ChatGPT](https://github.com/wprusik/chatbot-history-cleaner/blob/main/chatgpt.js)
+* [Google Bard](https://github.com/wprusik/chatbot-history-cleaner/blob/main/bard.js)
 
 ## Usage
 1. Log in to the chatbot
